@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The Best Time is Now"
-date:   2017-02-08 19:55:54 +0000
+title:  "The Time is Now"
+date:   2017-02-08 14:55:54 -0500
 ---
 
 
